@@ -10,7 +10,7 @@ Thank you!
 
 ### Some of my interests include:
 
-### Music!
+- ### Music!
 ![music](https://github.com/vic-voskovsky/Portfolio/blob/master/images/music.jpg)
 
 
