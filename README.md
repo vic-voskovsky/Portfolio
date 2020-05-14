@@ -7,7 +7,7 @@ Thank you!
 
 My name is Vic, 
 
-![music](https://github.com/vic-voskovsky/Portfolio/blob/master/images/music.jpg | width=100)
+![music](https://github.com/vic-voskovsky/Portfolio/blob/master/images/music.jpg)
 
 
 
