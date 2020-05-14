@@ -38,4 +38,17 @@ Thank you!
 
 ---------
 
-### 
+### Cont. 
+
+---------
+
+### If you would like to learn more about some of the specific projects I worked on, you are welcome to look at my projects folder which includes great works like: 
+
+- 
+
+---------
+
+### If you would like to connect on social media please connect via the following: 
+- Linkedin 
+- Twitter
+- Email 
