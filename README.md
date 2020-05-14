@@ -5,11 +5,11 @@ Thank you!
 
 ---------
 
-## My name is Vic, 
+## My name is Vic >>> 
 ![hello](https://github.com/vic-voskovsky/Portfolio/blob/master/images/hello_vic.jpg)
 ---------
 
-### Some of my interests include:
+### Some of my interests include >>>
 
 - ### Video Games and Esports! 
 ![esports](https://github.com/vic-voskovsky/Portfolio/blob/master/images/esports.jpg)
