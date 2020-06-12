@@ -52,3 +52,5 @@ Thank you!
 - Linkedin 
 - Twitter
 - Email 
+- Angelist
+
