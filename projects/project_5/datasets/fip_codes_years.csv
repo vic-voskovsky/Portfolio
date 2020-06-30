@@ -1,0 +1,130 @@
+fip_code,county,Impact,state,hurricane,month,q_0,q_-2,q_-1,q_1,year
+48201,Harris,Major,TX,Harvey,Sept,3,1,2,4,2017
+48245,Jefferson,Major,TX,Harvey,Sept,3,1,2,4,2017
+48167,Galveston,Major,TX,Harvey,Sept,3,1,2,4,2017
+48039,Brazoria,Major,TX,Harvey,Sept,3,1,2,4,2017
+48321,Matagorda,Major,TX,Harvey,Sept,3,1,2,4,2017
+48057,Calhoun,Major,TX,Harvey,Sept,3,1,2,4,2017
+48007,Aransas,Major,TX,Harvey,Sept,3,1,2,4,2017
+48409,San Patricio,Major,TX,Harvey,Sept,3,1,2,4,2017
+48355,Nueces,Major,TX,Harvey,Sept,3,1,2,4,2017
+48273,Kleberg,Major,TX,Harvey,Sept,3,1,2,4,2017
+22087,St Bernard,Major,LA,Katrina,Aug,3,1,2,4,2005
+22071,Orleans,Major,LA,Katrina,Aug,3,1,2,4,2005
+22075,Plaquemines,Major,LA,Katrina,Aug,3,1,2,4,2005
+22051,St Tammay,Major,LA,Katrina,Aug,3,1,2,4,2005
+22103,St Charles,Major,LA,Katrina,Aug,3,1,2,4,2005
+22089,St. Charles Parish,Major,LA,Katrina,Aug,3,1,2,4,2005
+72127,San Juan,Major,P.R.,Maria,Sept,3,1,2,4,2017
+72021,Bayamon,Major,P.R.,Maria,Sept,3,1,2,4,2017
+72013,Arecibo,Major,P.R.,Maria,Sept,3,1,2,4,2017
+72025,Caguas,Major,P.R.,Maria,Sept,3,1,2,4,2017
+72113,Ponce,Major,P.R.,Maria,Sept,3,1,2,4,2017
+12025,Dade,Major,FL,Andrew,Aug,3,1,2,4,1992
+12011,Broward,Major,FL,Andrew,Aug,3,1,2,4,1992
+12099,Palm Beach,Major,FL,Andrew,Aug,3,1,2,4,1992
+12087,Monroe,Major,FL,Andrew,Aug,3,1,2,4,1992
+36103,Suffolk,Major,NY,Sandy,Oct,4,2,3,1,2012
+36059,Nassau,Major,NY,Sandy,Oct,4,2,3,1,2012
+36081,Queens,Major,NY,Sandy,Oct,4,2,3,1,2012
+36005,Bronx,Major,NY,Sandy,Oct,4,2,3,1,2012
+36647,Kings,Major,NY,Sandy,Oct,4,2,3,1,2012
+36119,Westchester,Major,NY,Sandy,Oct,4,2,3,1,2012
+36061,New York ,Major,NY,Sandy,Oct,4,2,3,1,2012
+72127,San Juan,Major,P.R.,Irma,Sept,3,1,2,4,2017
+72021,Bayamon,Major,P.R.,Irma,Sept,3,1,2,4,2017
+72013,Arecibo,Major,P.R.,Irma,Sept,3,1,2,4,2017
+72025,Caguas,Major,P.R.,Irma,Sept,3,1,2,4,2017
+72113,Ponce,Major,P.R.,Irma,Sept,3,1,2,4,2017
+12025,Dade,Major,FL,Irma,Sept,3,1,2,4,2017
+12011,Broward,Major,FL,Irma,Sept,3,1,2,4,2017
+12099,Palm Beach,Major,FL,Irma,Sept,3,1,2,4,2017
+12087,Monroe,Major,FL,Irma,Sept,3,1,2,4,2017
+12043,Glades,Major,FL,Irma,Sept,3,1,2,4,2017
+12021,Collier,Major,FL,Irma,Sept,3,1,2,4,2017
+12071,Lee,Major,FL,Irma,Sept,3,1,2,4,2017
+12051,Hendry,Major,FL,Irma,Sept,3,1,2,4,2017
+12115,Sarasota,Major,FL,Irma,Sept,3,1,2,4,2017
+48071,Chambers,Major,TX,Ike,Sept,3,1,2,4,2008
+48167,Galveston,Major,TX,Ike,Sept,3,1,2,4,2008
+48245,Jefferson,Major,TX,Ike,Sept,3,1,2,4,2008
+48201,Harris,Major,TX,Ike,Sept,3,1,2,4,2008
+12025,Dade,Major,FL,Wilma,Oct,4,2,3,1,2005
+12011,Broward,Major,FL,Wilma,Oct,4,2,3,1,2005
+12099,Palm Beach,Major,FL,Wilma,Oct,4,2,3,1,2005
+12087,Monroe,Major,FL,Wilma,Oct,4,2,3,1,2005
+12043,Glades,Major,FL,Wilma,Oct,4,2,3,1,2005
+12021,Collier,Major,FL,Wilma,Oct,4,2,3,1,2005
+12071,Lee,Major,FL,Wilma,Oct,4,2,3,1,2005
+12051,Hendry,Major,FL,Wilma,Oct,4,2,3,1,2005
+22051,Jefferson,Major,LA,Ivan,Sept,3,1,2,4,2004
+22075,Plaquemines,Major,LA,Ivan,Sept,3,1,2,4,2004
+22103,St Charles,Major,LA,Ivan,Sept,3,1,2,4,2004
+22095,St Johns,Major,LA,Ivan,Sept,3,1,2,4,2004
+22093,St James,Major,LA,Ivan,Sept,3,1,2,4,2004
+1003,Baldwin,Major,AL,Ivan,Sept,3,1,2,4,2004
+1097,Mobile,Major,AL,Ivan,Sept,3,1,2,4,2004
+12045,Gulf,Major,FL,Ivan,Sept,3,1,2,4,2004
+12095,Orange,Major,FL,Ivan,Sept,3,1,2,4,2004
+12113,Santa Rosa,Major,FL,Ivan,Sept,3,1,2,4,2004
+12033,Escambia,Major,FL,Ivan,Sept,3,1,2,4,2004
+12005,Bay,Major,FL,Michael,Oct,4,2,3,1,2018
+12045,Gulf,Major,FL,Michael,Oct,4,2,3,1,2018
+12129,Wakulla,Major,FL,Michael,Oct,4,2,3,1,2018
+12091,Okaloosa,Major,FL,Michael,Oct,4,2,3,1,2018
+12037,Franklin,Major,FL,Michael,Oct,4,2,3,1,2018
+13087,Decatur,Major,GA,Michael,Oct,4,2,3,1,2018
+13253,Seminole,Major,GA,Michael,Oct,4,2,3,1,2018
+22051,Jefferson,Major,LA,Rita,Sept,3,1,2,4,2005
+22075,Plaquemines,Major,LA,Rita,Sept,3,1,2,4,2005
+22103,St Charles,Major,LA,Rita,Sept,3,1,2,4,2005
+22095,St Johns,Major,LA,Rita,Sept,3,1,2,4,2005
+22093,St James,Major,LA,Rita,Sept,3,1,2,4,2005
+22023,Cameron,Major,LA,Rita,Sept,3,1,2,4,2005
+22045,Iberia,Major,LA,Rita,Sept,3,1,2,4,2005
+22053,Jeff Davis,Major,LA,Rita,Sept,3,1,2,4,2005
+22001,Acadia,Major,LA,Rita,Sept,3,1,2,4,2005
+12025,Dade,Major,FL,Rita,Sept,3,1,2,4,2005
+48167,Galveston,Major,TX,Rita,Sept,3,1,2,4,2005
+48245,Jefferson,Major,TX,Rita,Sept,3,1,2,4,2005
+48201,Harris,Major,TX,Rita,Sept,3,1,2,4,2005
+12031,Duval,Major,FL,Matthew,Oct,4,2,3,1,2016
+12095,Orange,Major,FL,Matthew,Oct,4,2,3,1,2016
+45019,Charleston,Major,SC,Matthew,Oct,4,2,3,1,2016
+45013,Beaufort,Major,SC,Matthew,Oct,4,2,3,1,2016
+45051,Horry,Major,SC,Matthew,Oct,4,2,3,1,2016
+37183,Wake,Major,NC,Matthew,Oct,4,2,3,1,2016
+37129,New Hanover,Major,NC,Matthew,Oct,4,2,3,1,2016
+12015,Charlotte,Major,FL,Charlie,Aug,3,1,2,4,2004
+12087,Monroe,Major,FL,Charlie,Aug,3,1,2,4,2004
+12021,Collier,Major,FL,Charlie,Aug,3,1,2,4,2004
+12027,DeSoto,Major,FL,Charlie,Aug,3,1,2,4,2004
+12049,Hardee,Major,FL,Charlie,Aug,3,1,2,4,2004
+12095,Orange,Major,FL,Charlie,Aug,3,1,2,4,2004
+12099,Palm Beach,Major,FL,Frances,Aug,3,1,2,4,2004
+12011,Broward,Major,FL,Frances,Aug,3,1,2,4,2004
+12086,Dade,Major,FL,Frances,Aug,3,1,2,4,2004
+12095,Orange,Major,FL,Frances,Aug,3,1,2,4,2004
+12085,Martin,Major,FL,Frances,Aug,3,1,2,4,2004
+72127,San Juan,Major,P.R.,Frances,Aug,3,1,2,4,2004
+72057,Guayama,Major,P.R.,Frances,Aug,3,1,2,4,2004
+72049,Culebra,Major,P.R.,Frances,Aug,3,1,2,4,2004
+72147,Vieques,Major,P.R.,Frances,Aug,3,1,2,4,2004
+72025,Caguas,Major,P.R.,Frances,Aug,3,1,2,4,2004
+72113,Ponce,Major,P.R.,Frances,Aug,3,1,2,4,2004
+72063,Gurabo,Major,P.R.,Irene,Aug,3,1,2,4,2011
+72127,San Juan,Major,P.R.,Irene,Aug,3,1,2,4,2011
+72049,Culebra,Major,P.R.,Irene,Aug,3,1,2,4,2011
+72151,Yabucao,Major,P.R.,Irene,Aug,3,1,2,4,2011
+34009,Cape May,Major,NJ,Irene,Aug,3,1,2,4,2011
+34001,Atlantic,Major,NJ,Irene,Aug,3,1,2,4,2011
+34017,Hudson,Major,NJ,Irene,Aug,3,1,2,4,2011
+34021,Mercer,Major,NJ,Irene,Aug,3,1,2,4,2011
+36059,Nassau,Major,NY,Irene,Aug,3,1,2,4,2011
+36095,Schoharie,Major,NY,Irene,Aug,3,1,2,4,2011
+36061,New York ,Major,NY,Irene,Aug,3,1,2,4,2011
+37137,Pamilico,Major,NC,Irene,Aug,3,1,2,4,2011
+37177,Tyrrell,Major,NC,Irene,Aug,3,1,2,4,2011
+51810,Virginia Beach,Major,VA,Irene,Aug,3,1,2,4,2011
+51800,Suffolk,Major,VA,Irene,Aug,3,1,2,4,2011
+51700,Newport News,Major,VA,Irene,Aug,3,1,2,4,2011
